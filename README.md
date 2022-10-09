@@ -1,3 +1,8 @@
-# A traffic light build with React
+# A traffic light built with React
 
-#### This project incorporates a timer function to shift between light colors.
+#### This project incorporates a timer feature to shift between light colors.
+
+
+
+https://user-images.githubusercontent.com/98723432/194784159-1c520e01-ad43-41b8-8055-3a533e0e57f6.mov
+
